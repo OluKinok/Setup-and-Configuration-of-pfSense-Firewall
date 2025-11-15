@@ -16,7 +16,7 @@ TOOLS:
 
 NETWORK TOPOLOGY:
 
-[Internet] ------> WAN ----> [pfSense] ----> LAN -----> [Ununtu (internal network)]
+[Internet] ------> WAN ----> [pfSense] ----> LAN -----> [Ubuntu (internal network)]
                          
 - WAN Interface: This will be connected to the external network using NAT (Network Address Translation)
 - LAN Interface - the network access will be set to Intnet (Internal Network).
